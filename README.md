@@ -1,5 +1,6 @@
 # TIPE2025
-**Sujet :** Réseaux de neurones artificiels et optimisation de l’apprentissage
+**Sujet :** Réseaux de neurones artificiels et optimisation de l’apprentissage.
+
 **Problématique :** *Comment fonctionne l'algorithme de descente de gradient et en quoi permet-il l'apprentissage supervisé ?*
 
 ---
